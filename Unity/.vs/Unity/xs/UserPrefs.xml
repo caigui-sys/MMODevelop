@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CD311104-1830-B119-81B6-5DBEE2467FFB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Model/Module/Resource/BundleDownloaderComponent.cs">
+    <Files>
+      <File FileName="Assets/ModelView/Module/BasicView/UIComponent.cs" Line="7" Column="55" />
+      <File FileName="Assets/ModelView/Module/BasicView/UIActionFlag.cs" />
+      <File FileName="Assets/ModelView/Module/BasicView/UIContainerForm.cs" />
+      <File FileName="Assets/ModelView/Module/BasicView/UIForm.cs" />
+      <File FileName="Assets/ModelView/Module/BasicView/UIPackageHelp.cs" />
+      <File FileName="Assets/ModelView/Module/BasicView/UIWindowForm.cs" />
+      <File FileName="Assets/Model/Module/Extend/ExtendGLoader.cs" />
+      <File FileName="Assets/Model/Helper/BitHelper.cs" />
+      <File FileName="Assets/Model/Base/Object/EntityFactory.cs" />
+      <File FileName="Assets/HotfixView/AppStart_Init.cs" Line="74" Column="15" />
+      <File FileName="Assets/HotfixView/Scene/AfterCreateZoneScene_AddComponent.cs" />
+      <File FileName="Assets/ModelView/MonoBehaviour/Init.cs" Line="1" Column="1" />
+      <File FileName="Assets/Model/Define.cs" Line="3" Column="22" />
+      <File FileName="Assets/Model/Module/Resource/BundleDownloaderComponent.cs" Line="84" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Unity.Editor PreferredExecutionTarget="4f805440-5f1a-4fd9-88d1-7b19a5e6aa21" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

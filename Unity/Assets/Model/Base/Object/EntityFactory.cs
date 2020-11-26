@@ -146,8 +146,17 @@ namespace ET
 	        return component;
         }
 
+		public static T Create<T>(Entity domain,bool isPool) where T : Entity
+		{
+			Type type = typeof(T);
+			T component = (T)Entity.Create(type, isPool);
+			component.Domain = domain;
+			component.Id = IdGenerater.GenerateId();
+			EventSystem.Instance.Awake(component);
+			return component;
+		}
 
-        public static T Create<T>(Entity domain) where T : Entity
+		public static T Create<T>(Entity domain) where T : Entity
 		{
 			Type type = typeof (T);
 			T component = (T)Entity.Create(type, true);
